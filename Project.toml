@@ -1,0 +1,13 @@
+name = "DoStats"
+uuid = "d54460e6-4c8d-419b-9806-a443076205a8"
+authors = ["ravinder387 <ravinderram29121993@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
