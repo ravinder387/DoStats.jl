@@ -9,8 +9,6 @@ function sd0(a)
 
     # sum of square
     sq = 0.0
-
-    # loop 
     for i in a
         sq += (i - m)^2
     end
